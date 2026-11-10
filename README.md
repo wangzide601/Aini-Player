@@ -4,7 +4,7 @@
 
 > 本仓库**只发布安装包，不包含源码**。
 
-![version](https://img.shields.io/badge/version-1.59.18-blue)
+![version](https://img.shields.io/badge/version-1.59.25-blue)
 ![android](https://img.shields.io/badge/Android-7.0%2B-green)
 ![target](https://img.shields.io/badge/targetSdk-36-lightgrey)
 
@@ -17,7 +17,7 @@
 国内访问较慢时，可在原下载地址前加上加速前缀：
 
 ```
-https://ghproxy.net/https://github.com/用户名/仓库名/releases/download/v1.59.18/AiniPlayer-1.59.18.apk
+https://ghproxy.net/https://github.com/用户名/仓库名/releases/download/v1.59.25/AiniPlayer-1.59.25.apk
 ```
 
 ## 功能
@@ -71,7 +71,7 @@ A：旧版本是用别的签名装的，先卸载旧版再安装。
 
 ## 更新日志
 
-### v1.59.18
+### v1.59.25
 - 优化源加载与异常提示
 - 修复部分设备海报加载失败
 - 播放器稳定性改进
