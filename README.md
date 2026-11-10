@@ -17,7 +17,7 @@
 国内访问较慢时，可在原下载地址前加上加速前缀：
 
 ```
-https://ghproxy.net/https://github.com/用户名/仓库名/releases/download/v1.59.25/AiniPlayer-1.59.25.apk
+https://ghproxy.net/https://github.com/wangzide601/Aini-Player/releases/download/v1.59.25/AiniPlayer-1.59.25.apk
 ```
 
 ## 功能
