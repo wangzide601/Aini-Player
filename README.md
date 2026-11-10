@@ -32,6 +32,12 @@ https://ghproxy.net/https://github.com/wangzide601/Aini-Player/releases/download
 - **跳过片头**：按源记忆片头时长，下次自动跳过
 - **主题皮肤**：多套配色与壁纸
 
+## 演示视频
+
+https://github.com/user-attachments/assets/13a2bbaf-423b-4aee-8954-7d124a3d2e55
+
+https://github.com/user-attachments/assets/b0383371-8c62-494a-b1e4-53944e7fdd43
+
 ## 系统要求
 
 | 项目 | 要求 |
